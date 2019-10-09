@@ -7,9 +7,9 @@ const JoinButton = props => {
                 <div className="level-item">
                     <Link href="/join">
                         <a className="button is-large">
-                            <span>JOIN US</span>
+                            <span className="join-text">JOIN US</span>
                             <span className="icon join-icon">
-                                <i className="fas fa-arrow-right fas-50x" />
+                                <i className="fas fa-arrow-right fas-2x" />
                             </span>
                         </a>
                     </Link>
